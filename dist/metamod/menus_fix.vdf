@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"		"menusfix"
+	"file"		"addons/metamod/menus_fix.dll"
+}
